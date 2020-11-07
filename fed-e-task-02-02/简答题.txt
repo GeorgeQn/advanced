@@ -1,0 +1,13 @@
+一，简答题
+1.webpack的构建流程主要有哪些环节?如果阔以请尽可能详尽的描述webpack打包的整个过程。
+	答：(1).安装webpack：yarn init ; yarn add webpack webpack-cli --dev;yarn  webpack --version;
+	(2).根目录下添加webpack.config.js；若直接打包会使用mode为production的模式，可以yarn webpack --mode 
+	     development为开发模式，会优化打包速度，和添加一些调试的辅助；
+	webpack4.0默认从src/index.js开始打包到dist/main.js；
+	（3）.在配置文件里，如果是js文件，按默认loader就可以，但是图片，字体等资源文件，需要通过安装file loader或者url-loader去单独配置
+	      两者loader对于图片大小来区分使用；各有好处； 然后通过bundle.js向外导出
+
+2.loader和plugin有哪些不同？请描述一下开发loader和plugin的思路。
+	答：loader其实就是将资源文件返回一个js代码；
+	      plugin 是webpack的插件机制；可以加载资源的同时，做一些额外的自动化工作；
+	      plugin是通过webpack生命周期里的狗子函数改在一些任务来实现
