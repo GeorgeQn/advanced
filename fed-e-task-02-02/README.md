@@ -573,3 +573,9 @@ package.json:
 "lint-staged":{"*.js":["eslint","git add"]}
 
 "script":{"precommit":"lint-staged"}
+
+# 实现webpack打包vue项目的任务-笔记
+
+https://blog.csdn.net/qq_34875090/article/details/107161295
+
+webpack版本的不同，会影响配置，详情可以百度
