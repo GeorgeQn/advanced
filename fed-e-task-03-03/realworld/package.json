@@ -1,0 +1,14 @@
+{
+  "name": "realworld",
+  "version": "1.0.0",
+  "description": "账号：GeorgeQn",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nuxt"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nuxt": "^2.15.6"
+  }
+}

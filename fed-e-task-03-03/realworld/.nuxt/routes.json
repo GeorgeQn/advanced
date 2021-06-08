@@ -1,0 +1,44 @@
+[
+  {
+    "name": "editor",
+    "path": "/editor",
+    "component": "D:\\\\前端\\\\GeorgeQnGit\\\\advanced\\\\fed-e-task-03-03\\\\realworld\\\\pages\\\\editor.vue",
+    "chunkName": "pages/editor",
+    "_name": "_e8332898"
+  },
+  {
+    "name": "layout",
+    "path": "/layout",
+    "component": "D:\\\\前端\\\\GeorgeQnGit\\\\advanced\\\\fed-e-task-03-03\\\\realworld\\\\pages\\\\layout\\\\index.vue",
+    "chunkName": "pages/layout/index",
+    "_name": "_0af0971e"
+  },
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "D:\\\\前端\\\\GeorgeQnGit\\\\advanced\\\\fed-e-task-03-03\\\\realworld\\\\pages\\\\login.vue",
+    "chunkName": "pages/login",
+    "_name": "_1cd5ad72"
+  },
+  {
+    "name": "register",
+    "path": "/register",
+    "component": "D:\\\\前端\\\\GeorgeQnGit\\\\advanced\\\\fed-e-task-03-03\\\\realworld\\\\pages\\\\register.vue",
+    "chunkName": "pages/register",
+    "_name": "_44341e2a"
+  },
+  {
+    "name": "settings",
+    "path": "/settings",
+    "component": "D:\\\\前端\\\\GeorgeQnGit\\\\advanced\\\\fed-e-task-03-03\\\\realworld\\\\pages\\\\settings.vue",
+    "chunkName": "pages/settings",
+    "_name": "_6c5028ac"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "D:\\\\前端\\\\GeorgeQnGit\\\\advanced\\\\fed-e-task-03-03\\\\realworld\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_532e0a5b"
+  }
+]
